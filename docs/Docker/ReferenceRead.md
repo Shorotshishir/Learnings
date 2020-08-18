@@ -1,0 +1,1 @@
+- __How To Remove Docker Images, Containers, and Volumes by Digital Ocean__ ***(https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)***
