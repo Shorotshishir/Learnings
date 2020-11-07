@@ -8,4 +8,4 @@
         sudo hostname new-hostname
     ### refresh the terminal 
         bash
-    ![Change Hostname](d../img/linux/hostname.png?raw=true "Change Hostname")
+    ![Change Hostname](../img/linux/hostname.png?raw=true "Change Hostname")
